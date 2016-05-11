@@ -1,2 +1,2 @@
 # hello-world
-Just a test repository, to play around with GitHub.
+Just a test repository, to play around with GitHub
